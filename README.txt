@@ -14,3 +14,5 @@ touch README.txt
 
 git remote add origin https://github.com/Alexthianyc/Parcial-1-SYP.git
 
+
+https://github.com/Alexthianyc/Parcial-1-SYP.git
