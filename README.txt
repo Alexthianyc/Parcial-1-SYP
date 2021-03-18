@@ -11,3 +11,6 @@ creacion de archivos:
 touch respuestas.docx\
 touch README.txt
 
+
+git remote add origin https://github.com/Alexthianyc/Parcial-1-SYP.git
+
